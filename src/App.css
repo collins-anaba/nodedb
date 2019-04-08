@@ -1,0 +1,18 @@
+img {
+  max-height: 300px;
+  max-width: 5000px;
+  padding: margin;
+  flex-direction: 100px; 
+}
+
+h1 {
+  padding: 10px;
+  flex-direction: row-reverse
+}
+
+h5 {
+  padding: 0px;
+  color: grey
+}
+
+
